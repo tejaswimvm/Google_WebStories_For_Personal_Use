@@ -5,6 +5,10 @@
       "destination": "/editor.html"
     },
     {
+      "source": "/webstories/preview.html",
+      "destination": "/preview.html"
+    },
+    {
       "source": "/webstories/index.html",
       "destination": "/index.html"
     },
