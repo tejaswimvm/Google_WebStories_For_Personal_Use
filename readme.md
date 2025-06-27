@@ -1,15 +1,20 @@
-A lightweight, open-source web-based story editor built with React and Vite. This tool allows users to visually create, edit, and preview AMP-compliant web stories with support for media uploads, templates, and story settings. Designed for fast performance and smooth publishing workflows.
+# 📖 Google Web Stories Editor (React + Vite)
 
-🔧 Features
-🎨 Drag-and-drop visual story editing
+A lightweight, open-source web-based **story editor** built with React and Vite. This tool allows users to visually create, edit, and preview AMP-compliant web stories with support for media uploads, templates, and story settings.
 
-📷 Media asset management
+## 🚀 Features
 
-📄 Multi-page story builder
+- 🎨 Drag-and-drop visual story editing
+- 📷 Media asset management
+- 📄 Multi-page story builder
+- ⚡ AMP-compliant output
+- 🧩 Built with modern tech stack (React, Vite, SWC)
 
-⚡ AMP-compliant output
+## 🌐 Live Hosting
 
-🧩 Built with modern tech (React, Vite, SWC)
+Host your stories under `/webstories` route using [Vercel](https://vercel.com) or any static hosting provider.
+
+
 
 ## Steps to migrate the wp google pulgin
 1. Copy the story editor wp package
