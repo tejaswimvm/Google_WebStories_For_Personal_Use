@@ -5,7 +5,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/webstories/", // trailing slash is safer for asset loading
+  base: "/webstories", // trailing slash is safer for asset loading
   resolve: {
     alias: {
       src: path.resolve("./src"),

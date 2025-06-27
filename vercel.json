@@ -2,23 +2,25 @@
   "rewrites": [
     {
       "source": "/webstories/editor.html",
-      "destination": "/webstories/editor.html"
+      "destination": "/editor.html"
     },
     {
       "source": "/webstories/index.html",
-      "destination": "/webstories/index.html"
+      "destination": "/index.html"
     },
     {
       "source": "/webstories",
-      "destination": "/webstories/index.html"
+      "destination": "/index.html"
     },
     {
       "source": "/webstories/",
-      "destination": "/webstories/index.html"
+      "destination": "/index.html"
     },
     {
       "source": "/webstories/(.*)",
-      "destination": "/webstories/index.html"
+      "destination": "/index.html"
     }
-  ]
+  ],
+  "cleanUrls": false,
+  "trailingSlash": false
 }
