@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react-jsx",
+    "checkJs": true,
+    "paths": {
+      "@assets/*": ["src/assets/*"],
+      "@website/*": ["src/components/website/*"],
+      "@custom-components/*": ["src/components/custom-components/*"],
+      "@cms-components/*": ["src/components/cms/*"],
+      "@components/*": ["src/components/*"],
+      "@layouts/*": ["src/layouts/*"],
+      "@utils/*": ["src/utils/*"],
+      "@theme/*": ["src/theme/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@custom-api/*": ["src/api/*"],
+      "@contexts/*": ["src/contexts/*"],
+      "@cms-sections/*": ["src/sections/cms/*"]
+    }
+  },
+  "include": ["src/**/*.js", "src/**/*.jsx"]
+}

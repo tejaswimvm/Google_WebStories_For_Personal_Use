@@ -1,0 +1,279 @@
+{
+  "body": [
+    {
+      "id": 110,
+      "date": "2023-06-20T19:49:15",
+      "date_gmt": "2023-06-20T19:49:15",
+      "modified": "2023-06-20T19:49:15",
+      "modified_gmt": "2023-06-20T19:49:15",
+      "status": "publish",
+      "link": "https://webstories.mobiletak.com/web-stories/llt-story-18/",
+      "title": { "raw": "llt-story-18", "rendered": "llt-story-18" },
+      "preview_link": "https://webstories.mobiletak.com/web-stories/llt-story-18/",
+      "edit_link": "https://webstories.mobiletak.com/wp-admin/post.php?post=110&action=edit",
+      "_links": {
+        "self": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/wp/v2/types/web-story"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users/1"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 111,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/revisions/111"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/media?parent=110"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "web_story_category",
+            "embeddable": true,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category?post=110"
+          },
+          {
+            "taxonomy": "web_story_tag",
+            "embeddable": true,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_tag?post=110"
+          }
+        ],
+        "wp:lock": [
+          {
+            "embeddable": true,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/lock"
+          }
+        ],
+        "wp:publisherlogo": [
+          {
+            "embeddable": true,
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/media/12"
+          }
+        ],
+        "wp:action-publish": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-unfiltered-html": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-assign-author": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-create-web_story_category": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-assign-web_story_category": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-create-web_story_tag": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-assign-web_story_tag": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-delete": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "wp:action-edit": [
+          {
+            "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+          }
+        ],
+        "curies": [
+          { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+        ]
+      },
+      "_embedded": {
+        "author": [
+          {
+            "id": 1,
+            "name": "root",
+            "url": "https://webstories.mobiletak.com",
+            "description": "",
+            "link": "https://webstories.mobiletak.com/blog/author/root/",
+            "slug": "root",
+            "avatar_urls": {
+              "24": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=24&d=mm&r=g",
+              "48": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=48&d=mm&r=g",
+              "96": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g"
+            },
+            "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>root, Author at Webstories</title>\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://webstories.mobiletak.com/blog/author/root/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"profile\" />\n<meta property=\"og:title\" content=\"root, Author at Webstories\" />\n<meta property=\"og:url\" content=\"https://webstories.mobiletak.com/blog/author/root/\" />\n<meta property=\"og:site_name\" content=\"Webstories\" />\n<meta property=\"og:image\" content=\"https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=500&d=mm&r=g\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"ProfilePage\",\"@id\":\"https://webstories.mobiletak.com/blog/author/root/\",\"url\":\"https://webstories.mobiletak.com/blog/author/root/\",\"name\":\"root, Author at Webstories\",\"isPartOf\":{\"@id\":\"https://webstories.mobiletak.com/#website\"},\"breadcrumb\":{\"@id\":\"https://webstories.mobiletak.com/blog/author/root/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://webstories.mobiletak.com/blog/author/root/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://webstories.mobiletak.com/blog/author/root/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://webstories.mobiletak.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for root\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://webstories.mobiletak.com/#website\",\"url\":\"https://webstories.mobiletak.com/\",\"name\":\"Webstories\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://webstories.mobiletak.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://webstories.mobiletak.com/#/schema/person/b4882e4b257db8303bceb91f3ca09ac0\",\"name\":\"root\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://webstories.mobiletak.com/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g\",\"caption\":\"root\"},\"sameAs\":[\"https://webstories.mobiletak.com\"],\"mainEntityOfPage\":{\"@id\":\"https://webstories.mobiletak.com/blog/author/root/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+            "yoast_head_json": {
+              "title": "root, Author at Webstories",
+              "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+              },
+              "canonical": "https://webstories.mobiletak.com/blog/author/root/",
+              "og_locale": "en_US",
+              "og_type": "profile",
+              "og_title": "root, Author at Webstories",
+              "og_url": "https://webstories.mobiletak.com/blog/author/root/",
+              "og_site_name": "Webstories",
+              "og_image": [
+                {
+                  "url": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=500&d=mm&r=g"
+                }
+              ],
+              "twitter_card": "summary_large_image",
+              "schema": {
+                "@context": "https://schema.org",
+                "@graph": [
+                  {
+                    "@type": "ProfilePage",
+                    "@id": "https://webstories.mobiletak.com/blog/author/root/",
+                    "url": "https://webstories.mobiletak.com/blog/author/root/",
+                    "name": "root, Author at Webstories",
+                    "isPartOf": {
+                      "@id": "https://webstories.mobiletak.com/#website"
+                    },
+                    "breadcrumb": {
+                      "@id": "https://webstories.mobiletak.com/blog/author/root/#breadcrumb"
+                    },
+                    "inLanguage": "en-US",
+                    "potentialAction": [
+                      {
+                        "@type": "ReadAction",
+                        "target": [
+                          "https://webstories.mobiletak.com/blog/author/root/"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://webstories.mobiletak.com/blog/author/root/#breadcrumb",
+                    "itemListElement": [
+                      {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://webstories.mobiletak.com/"
+                      },
+                      {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Archives for root"
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "WebSite",
+                    "@id": "https://webstories.mobiletak.com/#website",
+                    "url": "https://webstories.mobiletak.com/",
+                    "name": "Webstories",
+                    "description": "",
+                    "potentialAction": [
+                      {
+                        "@type": "SearchAction",
+                        "target": {
+                          "@type": "EntryPoint",
+                          "urlTemplate": "https://webstories.mobiletak.com/?s={search_term_string}"
+                        },
+                        "query-input": "required name=search_term_string"
+                      }
+                    ],
+                    "inLanguage": "en-US"
+                  },
+                  {
+                    "@type": "Person",
+                    "@id": "https://webstories.mobiletak.com/#/schema/person/b4882e4b257db8303bceb91f3ca09ac0",
+                    "name": "root",
+                    "image": {
+                      "@type": "ImageObject",
+                      "inLanguage": "en-US",
+                      "@id": "https://webstories.mobiletak.com/#/schema/person/image/",
+                      "url": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g",
+                      "contentUrl": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g",
+                      "caption": "root"
+                    },
+                    "sameAs": ["https://webstories.mobiletak.com"],
+                    "mainEntityOfPage": {
+                      "@id": "https://webstories.mobiletak.com/blog/author/root/"
+                    }
+                  }
+                ]
+              }
+            },
+            "_links": {
+              "self": [
+                {
+                  "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users/1"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users"
+                }
+              ]
+            }
+          }
+        ],
+        "wp:lock": [
+          {
+            "locked": false,
+            "time": "",
+            "user": { "name": "", "id": 0, "avatar": [] },
+            "_links": {
+              "self": [
+                {
+                  "href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/lock"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": 200,
+  "headers": {
+    "X-WP-Total": "40",
+    "X-WP-TotalPages": "2",
+    "Link": "<https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story?_embed=wp%3Alock%2Cauthor&context=edit&_web_stories_envelope=1&_fields=id%2Ctitle%2Cstatus%2Cdate%2Cdate_gmt%2Cmodified%2Cmodified_gmt%2Cstory_poster%2Clink%2Cpreview_link%2Cedit_link%2C_links%2C_embedded%2Cbody%2Cstatus%2Cheaders&status%5B0%5D=draft&status%5B1%5D=future&status%5B2%5D=pending&status%5B3%5D=publish&status%5B4%5D=private&orderby=modified&order=desc&page=1&per_page=24&_locale=user>; rel=\"prev\"",
+    "X-WP-TotalByStatus": "{\"all\":40,\"publish\":40,\"draft\":0,\"future\":0,\"pending\":0,\"private\":0}"
+  }
+}

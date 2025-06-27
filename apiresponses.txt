@@ -1,0 +1,840 @@
+GET
+	https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category?per_page=100&_locale=user
+
+    [
+		{
+			"id": 33,
+			"count": 1,
+			"description": "",
+			"link": "https://webstories.mobiletak.com/blog/web_story_category/crimetak/",
+			"name": "crimetak",
+			"slug": "crimetak",
+			"taxonomy": "web_story_category",
+			"parent": 0,
+			"meta": [],
+			"_links": {
+			"self": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category/33"
+				}
+			],
+			"collection": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category"
+				}
+			],
+			"about": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/taxonomies/web_story_category"
+				}
+			],
+			"wp:post_type": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story?web_story_category=33"
+				}
+			],
+			"curies": [
+				{
+				"name": "wp",
+				"href": "https://api.w.org/{rel}",
+				"templated": true
+				}
+			]
+			}
+		},
+		{
+			"id": 31,
+			"count": 1,
+			"description": "",
+			"link": "https://webstories.mobiletak.com/blog/web_story_category/lallantop/",
+			"name": "lallantop",
+			"slug": "lallantop",
+			"taxonomy": "web_story_category",
+			"parent": 0,
+			"meta": [],
+			"_links": {
+			"self": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category/31"
+				}
+			],
+			"collection": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category"
+				}
+			],
+			"about": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/taxonomies/web_story_category"
+				}
+			],
+			"wp:post_type": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story?web_story_category=31"
+				}
+			],
+			"curies": [
+				{
+				"name": "wp",
+				"href": "https://api.w.org/{rel}",
+				"templated": true
+				}
+			]
+			}
+		},
+		{
+			"id": 32,
+			"count": 0,
+			"description": "",
+			"link": "https://webstories.mobiletak.com/blog/web_story_category/sportstak/",
+			"name": "sportstak",
+			"slug": "sportstak",
+			"taxonomy": "web_story_category",
+			"parent": 0,
+			"meta": [],
+			"_links": {
+			"self": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category/32"
+				}
+			],
+			"collection": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category"
+				}
+			],
+			"about": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/taxonomies/web_story_category"
+				}
+			],
+			"wp:post_type": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story?web_story_category=32"
+				}
+			],
+			"curies": [
+				{
+				"name": "wp",
+				"href": "https://api.w.org/{rel}",
+				"templated": true
+				}
+			]
+			}
+		},
+		{
+			"id": 34,
+			"count": 0,
+			"description": "",
+			"link": "https://webstories.mobiletak.com/blog/web_story_category/takapp/",
+			"name": "takapp",
+			"slug": "takapp",
+			"taxonomy": "web_story_category",
+			"parent": 0,
+			"meta": [],
+			"_links": {
+			"self": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category/34"
+				}
+			],
+			"collection": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category"
+				}
+			],
+			"about": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/taxonomies/web_story_category"
+				}
+			],
+			"wp:post_type": [
+				{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story?web_story_category=34"
+				}
+			],
+			"curies": [
+				{
+				"name": "wp",
+				"href": "https://api.w.org/{rel}",
+				"templated": true
+				}
+			]
+			}
+		}
+		]
+
+GET 
+    https://webstories.mobiletak.com/wp-json/web-stories/v1/users/?per_page=100&capabilities=edit_web-stories&_locale=user
+
+    [{
+	"0": {
+		"id": 1,
+		"name": "sanjaygupta",
+		"url": "https://webstories.mobiletak.com",
+		"description": "",
+		"link": "https://webstories.mobiletak.com/blog/author/root/",
+		"slug": "root",
+		"avatar_urls": {
+			"24": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=24&d=mm&r=g",
+			"48": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=48&d=mm&r=g",
+			"96": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g"
+		},
+		"meta": {
+			"web_stories_tracking_optin": false,
+			"web_stories_media_optimization": true,
+			"web_stories_onboarding": {
+				"addBackgroundMedia": true,
+				"addLinks": true,
+				"cropElementsWithShapes": true,
+				"cropSelectedElements": true,
+				"embedWebStories": true,
+				"enableSwipe": true,
+				"previewStory": true,
+				"safeZone": true
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users/1"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users"
+				}
+			]
+		}
+	}
+}
+]
+
+
+GET
+	https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/?_embed=wp:lock,author&context=edit&_web_stories_envelope=true&_fields=id,title,status,date,date_gmt,modified,modified_gmt,story_poster,link,preview_link,edit_link,_links,_embedded,body,status,headers&status=draft,future,pending,publish,private&orderby=modified&order=desc&page=2&per_page=24&_locale=user
+
+
+    {
+		"body": [
+			{
+			"id": 110,
+			"date": "2023-06-20T19:49:15",
+			"date_gmt": "2023-06-20T19:49:15",
+			"modified": "2023-06-20T19:49:15",
+			"modified_gmt": "2023-06-20T19:49:15",
+			"status": "publish",
+			"link": "https://webstories.mobiletak.com/web-stories/llt-story-18/",
+			"title": { "raw": "llt-story-18", "rendered": "llt-story-18" },
+			"preview_link": "https://webstories.mobiletak.com/web-stories/llt-story-18/",
+			"edit_link": "https://webstories.mobiletak.com/wp-admin/post.php?post=110&action=edit",
+			"_links": {
+				"self": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"collection": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story"
+				}
+				],
+				"about": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/wp/v2/types/web-story"
+				}
+				],
+				"author": [
+				{
+					"embeddable": true,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users/1"
+				}
+				],
+				"version-history": [
+				{
+					"count": 1,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/revisions"
+				}
+				],
+				"predecessor-version": [
+				{
+					"id": 111,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/revisions/111"
+				}
+				],
+				"wp:attachment": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/media?parent=110"
+				}
+				],
+				"wp:term": [
+				{
+					"taxonomy": "web_story_category",
+					"embeddable": true,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_category?post=110"
+				},
+				{
+					"taxonomy": "web_story_tag",
+					"embeddable": true,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_tag?post=110"
+				}
+				],
+				"wp:lock": [
+				{
+					"embeddable": true,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/lock"
+				}
+				],
+				"wp:publisherlogo": [
+				{
+					"embeddable": true,
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/media/12"
+				}
+				],
+				"wp:action-publish": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-unfiltered-html": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-assign-author": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-create-web_story_category": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-assign-web_story_category": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-create-web_story_tag": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-assign-web_story_tag": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-delete": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"wp:action-edit": [
+				{
+					"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110"
+				}
+				],
+				"curies": [
+				{ "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+				]
+			},
+			"_embedded": {
+				"author": [
+				{
+					"id": 1,
+					"name": "root",
+					"url": "https://webstories.mobiletak.com",
+					"description": "",
+					"link": "https://webstories.mobiletak.com/blog/author/root/",
+					"slug": "root",
+					"avatar_urls": {
+					"24": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=24&d=mm&r=g",
+					"48": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=48&d=mm&r=g",
+					"96": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g"
+					},
+					"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>root, Author at Webstories</title>\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://webstories.mobiletak.com/blog/author/root/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"profile\" />\n<meta property=\"og:title\" content=\"root, Author at Webstories\" />\n<meta property=\"og:url\" content=\"https://webstories.mobiletak.com/blog/author/root/\" />\n<meta property=\"og:site_name\" content=\"Webstories\" />\n<meta property=\"og:image\" content=\"https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=500&d=mm&r=g\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"ProfilePage\",\"@id\":\"https://webstories.mobiletak.com/blog/author/root/\",\"url\":\"https://webstories.mobiletak.com/blog/author/root/\",\"name\":\"root, Author at Webstories\",\"isPartOf\":{\"@id\":\"https://webstories.mobiletak.com/#website\"},\"breadcrumb\":{\"@id\":\"https://webstories.mobiletak.com/blog/author/root/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://webstories.mobiletak.com/blog/author/root/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://webstories.mobiletak.com/blog/author/root/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://webstories.mobiletak.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for root\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://webstories.mobiletak.com/#website\",\"url\":\"https://webstories.mobiletak.com/\",\"name\":\"Webstories\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://webstories.mobiletak.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://webstories.mobiletak.com/#/schema/person/b4882e4b257db8303bceb91f3ca09ac0\",\"name\":\"root\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://webstories.mobiletak.com/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g\",\"caption\":\"root\"},\"sameAs\":[\"https://webstories.mobiletak.com\"],\"mainEntityOfPage\":{\"@id\":\"https://webstories.mobiletak.com/blog/author/root/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+					"yoast_head_json": {
+					"title": "root, Author at Webstories",
+					"robots": {
+						"index": "index",
+						"follow": "follow",
+						"max-snippet": "max-snippet:-1",
+						"max-image-preview": "max-image-preview:large",
+						"max-video-preview": "max-video-preview:-1"
+					},
+					"canonical": "https://webstories.mobiletak.com/blog/author/root/",
+					"og_locale": "en_US",
+					"og_type": "profile",
+					"og_title": "root, Author at Webstories",
+					"og_url": "https://webstories.mobiletak.com/blog/author/root/",
+					"og_site_name": "Webstories",
+					"og_image": [
+						{
+						"url": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=500&d=mm&r=g"
+						}
+					],
+					"twitter_card": "summary_large_image",
+					"schema": {
+						"@context": "https://schema.org",
+						"@graph": [
+						{
+							"@type": "ProfilePage",
+							"@id": "https://webstories.mobiletak.com/blog/author/root/",
+							"url": "https://webstories.mobiletak.com/blog/author/root/",
+							"name": "root, Author at Webstories",
+							"isPartOf": {
+							"@id": "https://webstories.mobiletak.com/#website"
+							},
+							"breadcrumb": {
+							"@id": "https://webstories.mobiletak.com/blog/author/root/#breadcrumb"
+							},
+							"inLanguage": "en-US",
+							"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+								"https://webstories.mobiletak.com/blog/author/root/"
+								]
+							}
+							]
+						},
+						{
+							"@type": "BreadcrumbList",
+							"@id": "https://webstories.mobiletak.com/blog/author/root/#breadcrumb",
+							"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Home",
+								"item": "https://webstories.mobiletak.com/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Archives for root"
+							}
+							]
+						},
+						{
+							"@type": "WebSite",
+							"@id": "https://webstories.mobiletak.com/#website",
+							"url": "https://webstories.mobiletak.com/",
+							"name": "Webstories",
+							"description": "",
+							"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+								"@type": "EntryPoint",
+								"urlTemplate": "https://webstories.mobiletak.com/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+							],
+							"inLanguage": "en-US"
+						},
+						{
+							"@type": "Person",
+							"@id": "https://webstories.mobiletak.com/#/schema/person/b4882e4b257db8303bceb91f3ca09ac0",
+							"name": "root",
+							"image": {
+							"@type": "ImageObject",
+							"inLanguage": "en-US",
+							"@id": "https://webstories.mobiletak.com/#/schema/person/image/",
+							"url": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g",
+							"contentUrl": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g",
+							"caption": "root"
+							},
+							"sameAs": ["https://webstories.mobiletak.com"],
+							"mainEntityOfPage": {
+							"@id": "https://webstories.mobiletak.com/blog/author/root/"
+							}
+						}
+						]
+					}
+					},
+					"_links": {
+					"self": [
+						{
+						"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users/1"
+						}
+					],
+					"collection": [
+						{
+						"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users"
+						}
+					]
+					}
+				}
+				],
+				"wp:lock": [
+				{
+					"locked": false,
+					"time": "",
+					"user": { "name": "", "id": 0, "avatar": [] },
+					"_links": {
+					"self": [
+						{
+						"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/110/lock"
+						}
+					]
+					}
+				}
+				]
+			}
+			}
+		],
+		"status": 200,
+		"headers": {
+			"X-WP-Total": "40",
+			"X-WP-TotalPages": "2",
+			"Link": "<https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story?_embed=wp%3Alock%2Cauthor&context=edit&_web_stories_envelope=1&_fields=id%2Ctitle%2Cstatus%2Cdate%2Cdate_gmt%2Cmodified%2Cmodified_gmt%2Cstory_poster%2Clink%2Cpreview_link%2Cedit_link%2C_links%2C_embedded%2Cbody%2Cstatus%2Cheaders&status%5B0%5D=draft&status%5B1%5D=future&status%5B2%5D=pending&status%5B3%5D=publish&status%5B4%5D=private&orderby=modified&order=desc&page=1&per_page=24&_locale=user>; rel=\"prev\"",
+			"X-WP-TotalByStatus": "{\"all\":40,\"publish\":40,\"draft\":0,\"future\":0,\"pending\":0,\"private\":0}"
+		}
+		}
+
+
+
+POST
+	https://webstories.mobiletak.com/wp-json/web-stories/v1/status-check/?_locale=user
+
+    {"content":"__WEB_STORIES_ENCODED__base64"}
+
+    {"success":true}
+
+
+POST
+	https://webstories.mobiletak.com/wp-json/web-stories/v1/media/242/?_locale=user
+
+    {"meta":{"web_stories_base_color":"#ec2830"}}
+
+    {
+		"id": 242,
+		"date": "2023-08-02T08:21:48",
+		"date_gmt": "2023-08-02T08:21:48",
+		"guid": {
+			"rendered": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image.png",
+			"raw": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image.png"
+		},
+		"modified": "2024-01-07T14:17:07",
+		"modified_gmt": "2024-01-07T14:17:07",
+		"slug": "cropped-microsoftteams-image-png",
+		"status": "inherit",
+		"type": "attachment",
+		"link": "https://webstories.mobiletak.com/cropped-microsoftteams-image-png/",
+		"title": {
+			"raw": "cropped-MicrosoftTeams-image.png",
+			"rendered": "cropped-MicrosoftTeams-image.png"
+		},
+		"author": 1,
+		"featured_media": 0,
+		"comment_status": "open",
+		"ping_status": "closed",
+		"template": "",
+		"meta": {
+			"web_stories_base_color": "#ec2830",
+			"web_stories_blurhash": "",
+			"web_stories_cropped_origin_id": 0,
+			"web_stories_muted_id": 0,
+			"web_stories_optimized_id": 0,
+			"web_stories_poster_id": 0,
+			"web_stories_trim_data": {
+			"original": 0
+			},
+			"web_stories_is_gif": false
+		},
+		"web_story_media_source": [],
+		"web_stories_media_source": "",
+		"web_stories_is_muted": null,
+		"featured_media_src": [],
+		"caption": {
+			"raw": "",
+			"rendered": "<p>https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image.png</p>\n"
+		},
+		"alt_text": "",
+		"media_type": "image",
+		"mime_type": "image/png",
+		"media_details": {
+			"width": 512,
+			"height": 512,
+			"file": "2023/08/cropped-MicrosoftTeams-image.png",
+			"filesize": 24523,
+			"sizes": {
+			"medium": {
+				"file": "cropped-MicrosoftTeams-image-300x300.png",
+				"width": 300,
+				"height": 300,
+				"filesize": 13466,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-300x300.png"
+			},
+			"thumbnail": {
+				"file": "cropped-MicrosoftTeams-image-150x150.png",
+				"width": 150,
+				"height": 150,
+				"filesize": 5719,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-150x150.png"
+			},
+			"web-stories-publisher-logo": {
+				"file": "cropped-MicrosoftTeams-image-96x96.png",
+				"width": 96,
+				"height": 96,
+				"filesize": 3426,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-96x96.png"
+			},
+			"web-stories-thumbnail": {
+				"file": "cropped-MicrosoftTeams-image-150x150.png",
+				"width": 150,
+				"height": 150,
+				"filesize": 5719,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-150x150.png"
+			},
+			"site_icon-270": {
+				"file": "cropped-MicrosoftTeams-image-270x270.png",
+				"width": 270,
+				"height": 270,
+				"filesize": 11485,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-270x270.png"
+			},
+			"site_icon-192": {
+				"file": "cropped-MicrosoftTeams-image-192x192.png",
+				"width": 192,
+				"height": 192,
+				"filesize": 7704,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-192x192.png"
+			},
+			"site_icon-180": {
+				"file": "cropped-MicrosoftTeams-image-180x180.png",
+				"width": 180,
+				"height": 180,
+				"filesize": 7094,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-180x180.png"
+			},
+			"site_icon-32": {
+				"file": "cropped-MicrosoftTeams-image-32x32.png",
+				"width": 32,
+				"height": 32,
+				"filesize": 1099,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image-32x32.png"
+			},
+			"full": {
+				"file": "cropped-MicrosoftTeams-image.png",
+				"width": 512,
+				"height": 512,
+				"mime_type": "image/png",
+				"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image.png"
+			}
+			},
+			"image_meta": {
+			"aperture": "0",
+			"credit": "",
+			"camera": "",
+			"caption": "",
+			"created_timestamp": "0",
+			"copyright": "",
+			"focal_length": "0",
+			"iso": "0",
+			"shutter_speed": "0",
+			"title": "",
+			"orientation": "0",
+			"keywords": []
+			}
+		},
+		"post": null,
+		"source_url": "https://webstories.mobiletak.com/wp-content/uploads/2023/08/cropped-MicrosoftTeams-image.png",
+		"missing_image_sizes": [],
+		"_links": {
+			"self": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/media/242"
+			}
+			],
+			"collection": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/media"
+			}
+			],
+			"about": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/types/attachment"
+			}
+			],
+			"author": [
+			{
+				"embeddable": true,
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/users/1"
+			}
+			],
+			"replies": [
+			{
+				"embeddable": true,
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/comments?post=242"
+			}
+			],
+			"wp:term": [
+			{
+				"taxonomy": "web_story_media_source",
+				"embeddable": true,
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web_story_media_source?post=242"
+			}
+			],
+			"wp:action-unfiltered-html": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/media/242"
+			}
+			],
+			"wp:action-assign-author": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/media/242"
+			}
+			],
+			"wp:action-create-web_story_media_source": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/media/242"
+			}
+			],
+			"wp:action-assign-web_story_media_source": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/wp/v2/media/242"
+			}
+			],
+			"curies": [
+			{
+				"name": "wp",
+				"href": "https://api.w.org/{rel}",
+				"templated": true
+			}
+			]
+		}
+		}
+
+
+
+GET,POST
+	https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/225/lock/?_locale=user
+
+    {
+		"locked": true,
+		"time": "1704637024",
+		"user": {
+			"name": "root",
+			"id": 1,
+			"avatar": {
+			"24": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=24&d=mm&r=g",
+			"48": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=48&d=mm&r=g",
+			"96": "https://secure.gravatar.com/avatar/cf43d7ef13ad5b2d3339203d0e15d04f?s=96&d=mm&r=g"
+			}
+		},
+		"nonce": "463b9ed417",
+		"_links": {
+			"self": [
+			{
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/web-story/225/lock"
+			}
+			],
+			"author": [
+			{
+				"embeddable": true,
+				"href": "https://webstories.mobiletak.com/wp-json/web-stories/v1/users/1"
+			}
+			]
+		}
+	}
+
+export interface Author {
+  id: number;
+  name: string;
+}
+
+export type Taxonomy = {
+  name: string;
+  slug: string;
+  capabilities: Record<string, string>;
+  description?: string;
+  labels: Record<string, string>;
+  types: string[];
+  showCloud?: boolean;
+  hierarchical: boolean;
+  restBase: string;
+  restNamespace: string;
+  restPath: string;
+  visibility: Record<string, boolean>;
+};
+
+interface TaxonomiesArgs {
+  hierarchical?: boolean;
+  show_ui?: boolean;
+}
+
+interface Term {
+  id: number;
+  name: string;
+  slug: string;
+  taxonomy: string;
+}
+
+hasPublishAction
+publish
+hasEditAction
+hasDeleteAction
+assignAuthor
+assignWebStoryTag
+createWebStoryTag
+assignWebStoryCategory
+createWebStoryCategory
+
+
+export const VISIBILITY = {
+  PUBLIC: 'public',
+  PRIVATE: 'private',
+  PASSWORD_PROTECTED: 'protected',
+};
+
+export const STATUS = {
+  PUBLISH: 'publish',
+  FUTURE: 'future',
+  PRIVATE: 'private',
+  DRAFT: 'draft',
+};
+
+if (password) {
+	setVisibility(VISIBILITY.PASSWORD_PROTECTED);
+	return;
+}
+
+if (status === STATUS.PRIVATE) {
+	setVisibility(VISIBILITY.PRIVATE);
+	updateStory({
+	properties: { visibility: VISIBILITY.PRIVATE },
+	});
+	return;
+}
+	
+
+
+      placeholder: taxonomy.labels.allItems,
+      ariaLabel: taxonomy.labels.filterByItem,
+      noMatchesFoundLabel: taxonomy.labels.notFound,
+      searchPlaceholder: taxonomy.labels.searchItems,
+
+
+	  const availableTaxonomies = taxonomies.filter((taxonomy) =>
+    Boolean(
+      capabilities[`assign-${taxonomy?.restBase}`] ||
+        capabilities[`assign-${taxonomy?.slug}`]
+    )
+  );
+  
+const canCreateTerms = Boolean(
+          capabilities[`create-${taxonomy?.restBase}`] ||
+            capabilities[`create-${taxonomy?.slug}`]
+        );
