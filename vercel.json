@@ -17,6 +17,26 @@
       "destination": "/index.html"
     },
     {
+      "source": "/webstories/assets/(.*)",
+      "destination": "/assets/$1"
+    },
+    {
+      "source": "/webstories/(.*\\.js)",
+      "destination": "/$1"
+    },
+    {
+      "source": "/webstories/(.*\\.css)",
+      "destination": "/$1"
+    },
+    {
+      "source": "/webstories/(.*\\.json)",
+      "destination": "/$1"
+    },
+    {
+      "source": "/webstories/(.*\\.svg)",
+      "destination": "/$1"
+    },
+    {
       "source": "/webstories/(.*)",
       "destination": "/index.html"
     }
