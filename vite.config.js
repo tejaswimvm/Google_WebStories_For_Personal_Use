@@ -3,12 +3,9 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
-// https://vitejs.dev/config/
-
-console.log("__dirname", path.resolve(__dirname, "./src/assets"));
 export default defineConfig({
   plugins: [react()],
-  base: "/webstories",
+  base: "/webstories/", // trailing slash is safer for asset loading
   resolve: {
     alias: {
       src: path.resolve("./src"),
@@ -30,6 +27,7 @@ export default defineConfig({
     },
   },
   build: {
+    outDir: "dist", // Vercel will serve from dist/
     rollupOptions: {
       input: {
         index: path.resolve(__dirname, "./index.html"),

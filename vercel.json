@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/webstories/editor.html",
+      "destination": "/webstories/editor.html"
+    },
+    {
+      "source": "/webstories/index.html",
+      "destination": "/webstories/index.html"
+    },
+    {
+      "source": "/webstories",
+      "destination": "/webstories/index.html"
+    },
+    {
+      "source": "/webstories/",
+      "destination": "/webstories/index.html"
+    },
+    {
+      "source": "/webstories/(.*)",
+      "destination": "/webstories/index.html"
+    }
+  ]
+}
