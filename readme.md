@@ -12,7 +12,7 @@ A lightweight, open-source web-based **story editor** built with React and Vite.
 
 ## 🌐 Live Hosting
 
-Host your stories under `/webstories` route using [Vercel](https://vercel.com) or any static hosting provider.
+Host your stories under `/webstories` route using [Vercel](https://google-web-stories-for-personal-use.vercel.app/webstories/editor.html#page=%2522914b2415-fbe8-4913-a568-2cdd4c4db17a%2522) or any static hosting provider.
 
 
 
